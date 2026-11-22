@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ashish AI Video Studio</string>
+    <string name="studio_brand_hindi">आशीष एआई वीडियो स्टूडियो</string>
+    <string name="studio_tagline">गूगल फ्लो जैसा प्रोफेशनल हिंदी एआई सिनेमा स्टूडियो</string>
+    <string name="nav_projects">प्रोजेक्ट्स</string>
+    <string name="nav_storyboard">स्टोरी और सीन</string>
+    <string name="nav_timeline">टाइमलाइन और मूवी</string>
+    <string name="nav_settings">स्टूडियो सेटिंग्स</string>
+    <string name="firebase_ai_notice">नोट: क्लाउड Gemini AI (स्वचालित कहानी विश्लेषण, कैरेक्टर शीट और Gemini TTS) के लिए Firebase AI Logic आवश्यक है। अभी नमूना/संरचित आउटपुट और डिवाइस हिंदी TTS सक्रिय हैं।</string>
+    <string name="desc_cinema_hero">स्टूडियो हीरो बैनर</string>
+    <string name="desc_empty_storyboard">खाली स्टोरीबोर्ड चित्रण</string>
+</resources>

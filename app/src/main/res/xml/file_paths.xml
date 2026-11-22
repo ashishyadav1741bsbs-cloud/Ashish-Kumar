@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="studio_cache" path="/" />
+    <files-path name="studio_files" path="/" />
+    <external-files-path name="studio_movies" path="Movies/" />
+    <external-files-path name="studio_downloads" path="Downloads/" />
+</paths>

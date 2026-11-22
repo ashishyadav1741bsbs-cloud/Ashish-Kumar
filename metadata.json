@@ -1,0 +1,6 @@
+{
+  "name": "Ashish AI Video Studio",
+  "description": "AI-powered Hindi cinematic and 3D animation video creation studio with scene-by-scene storyboards, character consistency, Hindi dialogue voiceover, and multi-clip movie assembly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
